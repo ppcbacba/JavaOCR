@@ -1,0 +1,2 @@
+# JavaOCR
+A OCR Test
