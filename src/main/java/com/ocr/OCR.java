@@ -80,7 +80,7 @@ public class OCR {
 		}
 
 		new File(outputFile.getAbsolutePath() + ".txt").delete();
-		logger.info("图像识别结果:{}", strB);
+		System.out.println();("图像识别结果:{}", strB);
 		return strB.toString();
 	}
 }
